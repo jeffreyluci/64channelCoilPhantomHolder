@@ -18,3 +18,13 @@ I have also attached STL files. One at "low" resolution for FDM printers, and on
 Finally, I have attached the AutoCAD Inventor model I created that subsequently produced the STL files. Feel free to tweak for any use you like. DM for my Venmo for gratuities!
 
 I hope these help you, and if you have questions or need help using these resources, feel free to contact me. I'm always happy to help and collaborate.
+
+## LICENSE TO USE
+
+All information contained in this reposiroty is copyrighted by Jeffrey Luci, 2021. Jeffrey Luci grants non-exclusive, revoakble license to use the information contained in this repository to all persons for non-commercial use. Works using information in this respositry in publication or presentation must reference this repository formally, in accordance with the accepted practices, procedures, and styles of the relevant publishing entity. **ALL** commercial use must be separately and individually licensed from Jeffrey Luci.
+
+## DISCLAIMERS
+
+The information and technical files provided by Jeffrey Luci on this repository is for general informational purposes only. All information in the repository is provided in good faith, however I make no representation ot warranty of any kind - express or implied - regarding the accuracy, adequqcy, validity, reliability, availability, appropriateness, or completeness of any information in this repository.
+
+Your access to and use of the information in this repository or any of its content is at your own risk. Jeffrey Luci is not responsible or liable for any damages arising or resulting from use of this repository or use or inability to use the repository or any information contained in it, or from any action or decision taken as a result of using this repository.
