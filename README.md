@@ -19,9 +19,11 @@ Finally, I have attached the AutoCAD Inventor model I created that subsequently 
 
 I hope these help you, and if you have questions or need help using these resources, feel free to contact me. I'm always happy to help and collaborate.
 
-## LICENSE TO USE
+## LICENSE and TERMS OF USE
 
-All information contained in this reposiroty is copyrighted by Jeffrey Luci, 2021. Jeffrey Luci grants non-exclusive, revoakble license to use the information contained in this repository to all persons for non-commercial use. Works using information in this respositry (including those that build upon or improve the design) in publication or presentation must reference this repository formally, in accordance with the accepted practices, procedures, and styles of the relevant publishing entity. **ALL** commercial use must be separately and individually licensed from Jeffrey Luci.
+All information contained in this reposiroty is copyrighted by Jeffrey Luci, 2021. Jeffrey Luci grants non-exclusive, revoakble license to use the information contained in this repository to all persons for non-commercial use, provided that works using information in this respositry (including those that build upon, modify, or improve the design) in publication or presentation must reference this repository formally, in accordance with the accepted practices, procedures, and styles of the relevant publishing entity. **ALL** commercial use must be separately and individually licensed from Jeffrey Luci.
+
+Jeffrey Luci reserves the right to modify, update, amend, append, expand, and revoke this and all subsequent licenses at any time and for any reason. Your use of any information held in this repository constitutes acceptance of these terms.
 
 ## DISCLAIMERS
 
