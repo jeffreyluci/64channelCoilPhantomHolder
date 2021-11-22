@@ -1,6 +1,8 @@
 # 64 Channel Coil Phantom Holder for FUNSTAR Phantom
 Development resources for creating a [FUNSTAR](https://www.goldstandardphantoms.com/products/funstar/) phantom holder for a Siemens 64 channel Head/Neck coil
 
+![Phantom holder in Siemens 64 channel head coil](/assets/images/Holder_in_Coil.jpg)
+
 The analysis I perform for QA monitors individual coil elements, and the phantom's position in the coil affects loading and sensitivities of all the elements. Placing the phantom reproducibly within the coil housing enables more rigorous monitoring and comparison of long-term metrics. To that end, I have used CAD files of the coil housings to create my custom phantom holders. Unfortunately, having just moved to Rutgers University and switching to a Prisma, my primary coil for QA is now the 64 channel head/neck. Previously, I had used the 32 head. Snice I don't have, and didn't want to wait for the (approximately) 284 lawyers it takes to obtain the CAD files for this coil, I acquired a high resolution CT of the coil housing, and modeled the surface in [Autodesk Inventor.](https://www.autodesk.com/products/inventor/overview) From that, I created a holder that meshes with the surface of the coil, and has a shperoid cutout that matches the FUNSTAR outer diameter.
 
 A few caveats. This phantom holder is in direct contact with the coil housing and does not provide any effective vibration mitigation measures. I am still trying to rigorously characterize the mechanical vibrations, and how much they affect the results of QA (if at all). I am also trying to get the CAD files for the 64 channel head/neck coil. If/when I am able to do that, I will create a revised version of this holder and update this posting.
